@@ -1,16 +1,13 @@
-# meals_app_with_riverpod
+# Meals App With Riverpod
 
-A new Flutter project.
+Cross-Widget State Management
 
-## Getting Started
+Making Things Less Complex
+- What's The Problem?
+- A Solution: The "riverpood" Package
+- Using "riverpod" Providers
 
-This project is a starting point for a Flutter application.
+Section9 : [Flutter & Dart - The Complete Guide：2023 Edition](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo
+<img src="MealsAppWithRiverpod.gif" width="270" />
