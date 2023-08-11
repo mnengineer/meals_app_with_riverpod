@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import 'package:meals_app_with_reverpod/models/meal.dart';
 import 'package:meals_app_with_reverpod/providers/favorites_provider.dart';
+import 'package:meals_app_with_reverpod/providers/filters_provider.dart';
 import 'package:meals_app_with_reverpod/providers/meals_provider.dart';
 import 'package:meals_app_with_reverpod/screens/categories.dart';
 import 'package:meals_app_with_reverpod/screens/filters.dart';
